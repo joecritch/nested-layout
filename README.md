@@ -1,4 +1,4 @@
-# PHP Nested Layout
+# Nested Layout — transclusion for PHP partials
 
 ## What is it?
 
